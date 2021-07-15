@@ -1,0 +1,19 @@
+{
+    "name": "vantoozz/hello",
+    "type": "library",
+    "require": {
+        "php": "~8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vantoozz\\Hello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan Nikitin",
+            "email": "vantoozz@gmail.com"
+        }
+    ]
+}
